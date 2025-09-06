@@ -30,10 +30,11 @@ Easy to style and customize
 
 Clone or download this repository.
 
-git clone https://github.com/mohadkaif122344/javascript-project/tree/main/Digital%20clock
+ https://github.com/mohadkaif122344/javascript-project/tree/main/Digital%20clock
 
                             # OR
 git clone https://github.com/mohadkaif122344/javascript-project.git
+
  cd "Digital clock"
 
 
