@@ -4,7 +4,8 @@ A simple, lightweight digital clock built with plain HTML, CSS and JavaScript. T
 
 Demo:
 
-Live demo: Open index.html in your browser (or use Live Server / Vite).
+Live demo: Open index.html
+ in your browser 
 
 <img width="1909" height="1008" alt="Screenshot 2025-09-06 135823" src="https://github.com/user-attachments/assets/b60349d6-4731-4c83-833a-1188312b7cdd" />
 
