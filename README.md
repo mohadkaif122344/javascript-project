@@ -42,7 +42,7 @@ Demo
 Open index.html in your browser to see the random number generator in action.
 
 
-https://github.com/mohadkaif122344/javascript-project/tree/main/Random%20number%20clock
+https://github.com/mohadkaif122344/javascript-project/tree/main/Random%20number%20generator
 
 or
 
