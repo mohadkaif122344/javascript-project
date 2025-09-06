@@ -40,6 +40,7 @@ https://github.com/mohadkaif122344/javascript-project/tree/main/Random%20number%
     #OR
 
 git clone https://github.com/mohadkaif122344/javascript-project.git
+
 cd "Random number generator"
 
 Open index.html in your browser, or run a local server.
