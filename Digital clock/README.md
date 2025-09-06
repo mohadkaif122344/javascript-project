@@ -27,16 +27,11 @@ Smooth updating every second
 
 Easy to style and customize
 
-### File structure:
-digital-clock/
-├─ index.html
-├─ styles.css
-└─ script.js
-Installation / Usage
 
 Clone or download this repository.
 
-git clone https://github.com/mohadkaif122344/digital-clock.git
+git clone https://mohadkaif122344.github.io/javascript-project/Digital clock/
+
 cd digital-clock
 
 Open index.html in your browser, or run a local server (recommended for development):
